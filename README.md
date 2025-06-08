@@ -36,6 +36,7 @@ Agar hasil ANOVA valid, terdapat beberapa asumsi dasar yang harus dipenuhi:
 1. **Independensi**: Data antar pengamatan harus bebas satu sama lain.
 2. **Normalitas**: Distribusi data dalam tiap kelompok harus mendekati distribusi normal.
 3. **Homoskedastisitas (Homogeneity of Variance)**: Variansi antar kelompok harus seragam.  
+
 Jika asumsi ini dilanggar, maka hasil uji ANOVA bisa tidak valid dan uji non-parametrik seperti Kruskal-Wallis bisa dipertimbangkan sebagai alternatif.
 
 ## Instalasi Library

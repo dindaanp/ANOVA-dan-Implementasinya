@@ -22,6 +22,19 @@ Variasi ini menggambarkan seberapa besar variasi data individu dalam satu kelomp
 
 Semakin besar variasi antar kelompok dibandingkan variasi dalam kelompok, semakin mungkin bahwa rata-rata kelompok memang berbeda secara signifikan.
 
+## Kontribusi Analisis Nova
+Mengapa Variasi Antar dan Dalam Kelompok Penting?
+Membandingkan variasi antar kelompok dengan dalam kelompok penting untuk memastikan perbedaan antar kelompok lebih signifikan daripada fluktuasi acak dalam kelompok.
+
+Penerapan ANOVA di Berbagai Bidang
+Pemasaran: Menguji dampak kampanye terhadap penjualan.
+Medis: Menilai efektivitas pengobatan.
+Industri: Memeriksa kualitas produk dari berbagai pabrik.
+
+Kekuatan dan Kelemahan ANOVA
+Kekuatan: Menguji perbedaan antar banyak kelompok.
+Kelemahan: Memerlukan asumsi normalitas dan kesamaan variansi. Jika dilanggar, uji non-parametrik bisa dipilih.
+
 ## Rumus Dasar
 
 Nilai statistik ANOVA (F) dihitung sebagai:

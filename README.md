@@ -51,15 +51,3 @@ Agar hasil ANOVA valid, terdapat beberapa asumsi dasar yang harus dipenuhi:
 3. **Homoskedastisitas (Homogeneity of Variance)**: Variansi antar kelompok harus seragam.  
 
 Jika asumsi ini dilanggar, maka hasil uji ANOVA bisa tidak valid dan uji non-parametrik seperti Kruskal-Wallis bisa dipertimbangkan sebagai alternatif.
-
-## Instalasi Library
-
-```bash
-pip install pandas numpy scipy statsmodels matplotlib seaborn
-```
-
-## Studi Kasus
-
-1. **Pengaruh Departemen terhadap Kepuasan Kerja Karyawan** (`studi_kasus_1.ipynb`)
-2. **Efektivitas Tiga Jenis Obat terhadap Penurunan Tekanan Darah** (`studi_kasus_2.ipynb`)
-

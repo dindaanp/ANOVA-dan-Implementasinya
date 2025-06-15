@@ -1,3 +1,11 @@
+## 👥 Anggota Kelompok
+
+```
+Rouli Elizabeth Geraldine Aritonang (5025231021)
+Dinda Ayu Ningratu Putri            (5025231059)
+Kalistania Casey Tangkemanda        (5025231302)
+Annisa Salma Riavinola              (5025231312)
+```
 # Analisis ANOVA dan Penerapannya dalam Python
 
 Repositori ini membahas tentang **Analisis Varian (ANOVA)**, sebuah metode statistik yang digunakan untuk membandingkan rata-rata dari tiga atau lebih kelompok. Materi ini disusun dalam Bahasa Indonesia, dilengkapi dengan **dua studi kasus orisinal** dan penerapannya dalam Python.
